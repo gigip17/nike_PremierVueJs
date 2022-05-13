@@ -1,0 +1,35 @@
+
+.colonne{
+    display: flex;
+    width: 80%;
+    padding: 10%;
+    /* margin-top: -50px; */
+}
+.listDeGenre{
+    display: flex;
+    flex-direction: column;
+}
+.prix{
+    display: flex;
+    flex-direction: column;
+}
+#app-4{
+    flex-wrap: wrap;
+    padding: 0%;
+    justify-content: space-around;
+
+}
+.titre{
+    margin-left: 10%;
+    
+    
+}
+img{
+    width: 250px;
+}
+.filtre{
+   width: 40%;
+}
+li{
+    list-style: none;
+}
